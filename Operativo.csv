@@ -1,4 +1,4 @@
-Real o Pto.,Asiento #,Documento #,Proveedor,Detalle,Fecha_Contable,Fecha_Documento,Moneda, Precio Unitario, Monto ARS, Monto USD, Cantidad, Cuenta #,Cuenta,Área,Linea Negocio,Horario
+Real o Pto.,Asiento ,Documento ,Proveedor,Detalle,Fecha_Contable,Fecha_Documento,Moneda, Precio Unitario, ARS, USD, Cantidad, Cuenta ,Cuenta,Área,Linea Negocio,Horario
 R20,,4319988,  Melbourne S.A.,,1/16/2020,1/1/2020,Dólares,"  2,870.60 ","  279,310.71 ","  2,870.60 ",  1.00 , 500556-0688-08-000,Servicios de Transporte,RR.HH.,igr,nocturno
 R20,,9685030,Melbourne S.A.,,1/16/2020,1/1/2020,Pesos,  441.60 ,"  42,888.19 ",  441.60 ,  1.00 , 500556-0688-08-000,Servicios de Transporte,RR.HH.,sfn,nocturno
 R20,,10254630,Melbourne S.A.,,1/16/2020,1/1/2020,Dólares,  441.60 ,"  42,888.19 ",  441.60 ,  1.00 , 500556-0688-08-000,Servicios de Transporte,Mantenimiento,cor,nocturno
